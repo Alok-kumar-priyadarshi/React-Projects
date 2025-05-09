@@ -1,0 +1,28 @@
+
+.form-controller{
+    
+    position: relative;
+    
+}
+
+input{
+    height: 50px;
+    padding: 0 8px;
+    width: 590px;
+    border: 2px solid rgb(20, 20, 76);
+    border-radius: 5px;
+    height: 60px;
+    font-size: larger;
+    margin-bottom: 40px;
+
+
+}
+
+label{
+    position: absolute;
+    top: -6px;
+    left: 10px;
+    background-color: white;
+    padding: 0 10px;
+    font-weight: 600;
+}

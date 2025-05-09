@@ -1,0 +1,11 @@
+.btn{
+    display: flex;
+    justify-content: space-evenly;
+    /* max-width: 20px; */
+    background-color: rgb(20, 20, 76);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    width: 250px;
+    font-size: large;
+}
